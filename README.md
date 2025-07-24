@@ -1,2 +1,5 @@
-# postupashki_data_analysis
-solutions to laboratory work on data analysis
+# postupashki data analysis
+
+⭐️ Лабораторная работа I
+* парсинг данных по api
+* анализ датафрейма и визуалиазация его параметров
